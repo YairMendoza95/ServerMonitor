@@ -1,0 +1,19 @@
+{
+  "name": "servermonitor",
+  "version": "1.0.0",
+  "description": "Web Service para monitoreo remoto de servicios SAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YairMendoza95/ServerMonitor.git"
+  },
+  "author": "Yair Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YairMendoza95/ServerMonitor/issues"
+  },
+  "homepage": "https://github.com/YairMendoza95/ServerMonitor#readme"
+}
