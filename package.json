@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/YairMendoza95/ServerMonitor/issues"
   },
-  "homepage": "https://github.com/YairMendoza95/ServerMonitor#readme"
+  "homepage": "https://github.com/YairMendoza95/ServerMonitor#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
 }
